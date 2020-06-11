@@ -8,6 +8,8 @@ Counting the frequency a letter within a name that is listed.
 
 Output a numerical value to represent the frequency a unique character in the user's input of a full name.
 
+
+
 Creator Name
 This Program has been co-developed by the following creators:
 
@@ -19,13 +21,15 @@ Emmanuel Saucedo
 
 Alan Tran
 
+
+
 Version Number
 Version number 1.0.0
 
 Date Of Creation
 This program was created on June 8th, 2020.
-
 (6/8/2020)
+
 
 Program Usage Instructions
 The program instructions and intentions are as followed:
