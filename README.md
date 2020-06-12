@@ -34,7 +34,7 @@ This program was created on June 8th, 2020.
 Program Usage Instructions
 The program instructions and intentions are as followed:
 
-The user will input a FULL NAME.
+The user will input a FULL NAME which is in ALL LOWER CASE.
 
 The program will then execute with said input by entering a period.
 
